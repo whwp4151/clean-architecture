@@ -1,4 +1,4 @@
-package com.example.clean_architecture.account.application.adapter.out;
+package com.example.clean_architecture.account.adapter.out.persistence;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,4 +1,4 @@
-package com.example.clean_architecture.account.application.adapter.in.web;
+package com.example.clean_architecture.account.adapter.in.web;
 
 import com.example.clean_architecture.account.application.port.in.SendMoneyCommand;
 import com.example.clean_architecture.account.application.port.in.SendMoneyUseCase;
